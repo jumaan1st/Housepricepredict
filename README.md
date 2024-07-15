@@ -23,7 +23,7 @@ This project is a web application for predicting house prices based on various f
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/house-price-prediction.git
+    https://github.com/jumaan1st/housepricepredict.git
     ```
 2. Navigate to the project directory:
     ```bash
