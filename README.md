@@ -15,10 +15,10 @@ This project is a web application for predicting house prices based on various f
 [Prof. Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu), (Assistant Professor) Department of CSE, MIT Mysore
 
 ## Collaborators
-- 4MH21CS097 [Siri G](https://github.com/Siribug)
-- 4MH21CS103 [Suhas K M](https://github.com/suhaskm28)
-- 4MH21CS107 [Syed Furkhan Ahmed](https://github.com/)
-- 4MH21CS112 [Thejas R](https://github.com/Thejuraj2003)
+- 4MH21CS019 [Deepak Gowda KG](https://github.com/deepakgowda06)
+- 4MH21CS054 [Mohammed Jumaan](https://github.com/jumaan1st)
+- 4MH21CS111 [Tejas RG](https://github.com/tejasrg06)
+- 4MH21CS125 [Yashwanth V](https://github.com/yodha28)
 
 ## Installation
 
